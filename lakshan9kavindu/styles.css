@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    color: azure;
+    font-family: monospace;
+    background-image: url(https://miro.medium.com/v2/resize:fit:828/format:webp/0*wXn4QhOaRCXi_d8j);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+h1{
+    text-transform: uppercase;
+}
